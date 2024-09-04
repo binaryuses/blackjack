@@ -1,6 +1,8 @@
 import random
 import math
 
+# Still very buggy im gonna fix it one day
+
 suits = ["♥", "♦️", "♣️", "♠️"]
 
 def randomSuit(name):
